@@ -1,0 +1,7 @@
+{
+  "item.moneymod.money_5": "Money 5",
+  "item.moneymod.money_10": "Money 10",
+  "item.moneymod.money_100": "Money 100",
+  "itemGroup.moneymod": "Money Mod",
+  "tooltip.moneymod.value": "Value: %s"
+}

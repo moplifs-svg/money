@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="moneymod"
+version="1.0.0"
+displayName="Money Mod"
+description='''
+Adds three money bills: 5, 10 and 100.
+'''
+
+[[dependencies.moneymod]]
+modId="forge"
+mandatory=true
+versionRange="[47.4.28,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.moneymod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
